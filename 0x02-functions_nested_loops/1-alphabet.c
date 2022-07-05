@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ALX.h"
 
 /**
  * print_alphabet - prints lower case alphabet
