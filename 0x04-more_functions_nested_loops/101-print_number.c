@@ -39,7 +39,7 @@ int exponent(int x, int y)
 void print_number(int number)
 {
 	int size, digit;
-	long counter, sign;
+	short counter, sign;
 
 	sign = 1;
 	digit = 0;
