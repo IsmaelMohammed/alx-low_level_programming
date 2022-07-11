@@ -1,8 +1,3 @@
-/*
- * File: 4-print_rev.c
- * Auth: Ismael Mohammed
- */
-
 #include "main.h"
 /**
  * print_rev - Prints a string in reverse.
