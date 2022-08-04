@@ -16,10 +16,7 @@ for (i = 0; i < n; i++)
 printf("%d", va_arg(valist, int));
 if (separator && i < n - 1)
 printf("%s", separator);
-
 }
-
 printf("\n");
 va_end(valist);
-
 }
